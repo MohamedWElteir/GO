@@ -8,7 +8,6 @@ Welcome to the GOLANG Projects Repository! This repository contains a collection
 - [Projects](#projects)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -41,7 +40,3 @@ Contributions are welcome! If you have a GOLANG project that you would like to a
 4. Commit your changes: `git commit -m 'Add new project'`
 5. Push to the branch: `git push origin feature/new-project`
 6. Submit a pull request
-
-## License
-
-This repository is licensed under the [MIT License](/path/to/license). You are free to use, modify, and distribute the code in this repository.
